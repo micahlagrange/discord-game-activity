@@ -10,6 +10,8 @@ import (
 func main() {
 	reader := bufio.NewReader(os.Stdin)
 
+	fmt.Printf("How does this work?" +
+		" - Follow the guide at https://github.com/micahlagrange/discord-game-activity")
 	fmt.Println("Enter 'done' when you are done playing")
 
 	for {
