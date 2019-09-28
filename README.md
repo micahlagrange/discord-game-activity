@@ -6,10 +6,12 @@ It is annoying that you can't just set your own status in discord
 
 ## How?
 
+### Run it
+
 - Download and run this program from [here](https://github.com/micahlagrange/discord-game-activity/wiki)
 - It works best in Windows 10 if you pin it to start menu
 
-#### Then follow these steps in discord:
+### Update the name
 
 You still have to change the name in discord.
 
@@ -22,6 +24,8 @@ Click Game Activity
 ![click Game Activity, then click Add It](https://raw.githubusercontent.com/micahlagrange/discord-game-activity/master/help-2.png)
 
 Under the game activity bar, which will show "No game detected" unless you have a game open, click "Add it!"
+
+### Make it pretty
 
 Choose this program from the dropdown. If you have never changed it before, it will show something like `C:\Users\{user}\path\to\downloaded\location\discord-game-activity.exe`
 
@@ -43,5 +47,7 @@ Also, now the right game shows next to your name in channels, dms, etc...
 ![Now the right game shows next to your name in channels](https://raw.githubusercontent.com/micahlagrange/discord-game-activity/master/help-6.png)
 
 Discord will remember this for the next time you launch this program.
+
+### Update it
 
 If you ever want to change it, just rename it in the settings menu the same way!
