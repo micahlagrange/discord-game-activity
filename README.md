@@ -6,7 +6,7 @@ It is annoying that you can't just set your own status in discord
 
 ## How?
 
-- Download and run this program
+- Download and run this program from [here](https://github.com/micahlagrange/discord-game-activity/wiki)
 - It works best in Windows 10 if you pin it to start menu
 
 #### Then follow these steps in discord:
